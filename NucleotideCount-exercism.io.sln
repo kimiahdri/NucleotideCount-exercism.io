@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NucleotideCount-exercism.io", "NucleotideCount-exercism.io\NucleotideCount-exercism.io.csproj", "{BCB77514-AE3F-4A22-98A0-0E74FE78D464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB77514-AE3F-4A22-98A0-0E74FE78D464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB77514-AE3F-4A22-98A0-0E74FE78D464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB77514-AE3F-4A22-98A0-0E74FE78D464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB77514-AE3F-4A22-98A0-0E74FE78D464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C05B18-F3D6-40DF-8C95-08FE8CD02898}
+	EndGlobalSection
+EndGlobal
